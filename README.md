@@ -2,10 +2,11 @@
 RESTful is a web service that uses REST when implementing Web Services.
 
 ## Technologies used:
-Node.js and Postman
+* NodeJS 
+* Postman
 
 ## Download dependencies
-'yarn' or 'npm install'
+**yarn** or **npm install**
 
 ## To start, run:
-'yarn start' or 'npm start'
+**yarn start** or **npm start**
